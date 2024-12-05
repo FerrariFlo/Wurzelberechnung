@@ -1,0 +1,16 @@
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.Form1.resources
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.csproj.GenerateResource.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.AssemblyInfoInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.AssemblyInfo.cs
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.csproj.CoreCompileInputs.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\bin\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.exe
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\bin\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.deps.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\bin\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.runtimeconfig.json
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\bin\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\bin\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\refint\INF_Übungsbeispiel_HeronWurzelberechnung.dll
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.pdb
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\INF_Übungsbeispiel_HeronWurzelberechnung.genruntimeconfig.cache
+C:\Users\dokup\source\repos\INF_Übungsbeispiel_HeronWurzelberechnung\obj\Debug\net8.0-windows\ref\INF_Übungsbeispiel_HeronWurzelberechnung.dll
